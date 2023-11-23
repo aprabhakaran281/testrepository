@@ -24,7 +24,7 @@ public class PropertyReader {
 		   driver.findElement(By.id("loginForm:username")).sendKeys(props.getProperty("Username"));
 		   driver.findElement(By.id("loginForm:password")).sendKeys(props.getProperty("Password"));
 		   driver.findElement(By.id("loginForm:loginButton")).click();
-		   Thread.sleep(7000);
+		   Thread.sleep(5000);
 		   
 		   
 	}
