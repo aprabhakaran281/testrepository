@@ -27,6 +27,7 @@ public class Parentorialclass {
 			   superrootcustomize.login(URL, UserName, PassWorD, LoginButton);
 			   superrootcustomize.configuration();
 			   superrootcustomize.customization();
+			//Test
 			   
 	}
 
